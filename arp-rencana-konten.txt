@@ -1,5 +1,7 @@
 Renacana konten
 
 - Javascript
+  * ES6
+  * Another plugin
 - Python
 - Interview
