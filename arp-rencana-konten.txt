@@ -4,6 +4,7 @@ Renacana konten
   * ES6
   * Another plugin
    ^ Vue
+  * React
 - Python
 - Interview
 - struktur data dasar
