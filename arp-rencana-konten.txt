@@ -3,6 +3,9 @@ Renacana konten
 - Javascript
   * ES6
   * Another plugin
+   ^ Vue
+  * React
 - Python
 - Interview
 - struktur data dasar
+- PHP Framework
