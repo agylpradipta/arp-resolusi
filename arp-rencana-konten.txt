@@ -5,3 +5,4 @@ Renacana konten
   * Another plugin
 - Python
 - Interview
+- struktur data dasar
